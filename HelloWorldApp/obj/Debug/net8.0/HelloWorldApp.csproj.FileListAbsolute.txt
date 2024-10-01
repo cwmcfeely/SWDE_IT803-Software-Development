@@ -1,0 +1,15 @@
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.deps.json
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.runtimeconfig.json
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.dll
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.pdb
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfo.cs
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.sourcelink.json
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.dll
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/obj/Debug/net8.0/refint/HelloWorldApp.dll
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.pdb
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.genruntimeconfig.cache
+/Users/mcfeely/SWDE_IT803-Software-Development/HelloWorldApp/obj/Debug/net8.0/ref/HelloWorldApp.dll
